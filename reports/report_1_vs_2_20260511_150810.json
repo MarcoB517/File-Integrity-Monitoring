@@ -1,0 +1,23 @@
+{
+  "generated": "2026-05-11 15:08:10",
+  "old_scan_id": 1,
+  "new_scan_id": 2,
+  "summary": {
+    "added": 1,
+    "deleted": 1,
+    "modified": 1
+  },
+  "added": [
+    "/home/marco/fim_test/file3.txt"
+  ],
+  "deleted": [
+    "/home/marco/fim_test/file2.txt"
+  ],
+  "modified": [
+    {
+      "path": "/home/marco/fim_test/file1.txt",
+      "old_hash": "26e112d62ecc40c470d6a03fa34805de07efbce7f89a69e8f2219e7ba1998671",
+      "new_hash": "24bcf336821a8464db4e08aecbe9a657928f1e12892298b1984d20edbdd5bcf9"
+    }
+  ]
+}
